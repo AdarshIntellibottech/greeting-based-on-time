@@ -1,0 +1,22 @@
+*{ margin:0; padding: 0; box-sizing: border-box;}
+
+.heading {
+  color: #fcf9f9;
+  text-align: center;
+  text-transform: capitalize;
+  margin : 250px;
+
+
+  
+font-family: 'Dancing Script', cursive;
+
+}
+body
+{
+  background-image: linear-gradient(to top, blue, purple);
+  height: 450px;
+}
+
+.response {
+  color : yellow
+}
